@@ -1,0 +1,32 @@
+[
+ {
+    title:"Atama",
+    body:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quae magnam aut fugiat pariatur ex.",
+    stateOfOrigin:"",
+    id: 1
+ },
+ {
+    title:"Oha",
+    body:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quae magnam aut fugiat pariatur ex.",
+    stateOfOrigin:"Abia",
+    id: 2
+ },
+ {
+    title:"Edikaikong",
+    body:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quae magnam aut fugiat pariatur ex.",
+    stateOfOrigin:"Awka Ibom",
+    id: 3
+ },
+ {
+    title:"Efo",
+    body:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quae magnam aut fugiat pariatur ex.",
+    stateOfOrigin:"Ijebu",
+    id: 4
+ },
+ {
+    title:"Cashew",
+    body:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quae magnam aut fugiat pariatur ex.",
+    stateOfOrigin:"Enugu",
+    id: 7
+ }
+]
