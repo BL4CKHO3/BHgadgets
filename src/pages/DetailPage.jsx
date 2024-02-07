@@ -4,8 +4,9 @@ import UseCustomHook from '../useCustomHook';
 
 const DetailPage = () => {
     const {id} = useParams()
-    let URL = `http://localhost:8000/blogs/${id}`
+    // let URL = `http://localhost:8000/blogs/${id}`
     let navigate = useNavigate()
+    let URL = `https://my-json-server.typicode.com/BL4CKHO3/deviceDb/blogs${id}`;
 
     const {data: blog, isLoading, isError} = UseCustomHook(`${URL}`)
 
